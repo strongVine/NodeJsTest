@@ -1,0 +1,23 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/strongVine/NodeJsTest.git"
+  },
+  "keywords": [
+    "exemple",
+    "app"
+  ],
+  "author": "strongVine",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/strongVine/NodeJsTest/issues"
+  },
+  "homepage": "https://github.com/strongVine/NodeJsTest#readme"
+}
